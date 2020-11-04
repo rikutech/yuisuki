@@ -1,9 +1,0 @@
-{
-  "name": "yuisuki",
-  "version": "1.0.0",
-  "description": "Yui Otsuki fun site",
-  "main": "index.js",
-  "repository": "https://github.com/rikutech/yuisuki",
-  "author": "rikutech",
-  "license": "MIT"
-}
